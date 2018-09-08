@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\CNet Skorkin\4.3\obj\Debug\4.3.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CNet Skorkin\4.3\bin\Debug\4.3.exe.config
+C:\Users\Student\source\repos\CNet Skorkin\4.3\bin\Debug\4.3.exe
+C:\Users\Student\source\repos\CNet Skorkin\4.3\bin\Debug\4.3.pdb
+C:\Users\Student\source\repos\CNet Skorkin\4.3\obj\Debug\4.3.exe
+C:\Users\Student\source\repos\CNet Skorkin\4.3\obj\Debug\4.3.pdb
+C:\Users\Student\source\repos\CNet Skorkin\4.3\obj\Debug\4.3.csprojAssemblyReference.cache
